@@ -1,0 +1,24 @@
+GRP_CHANNEL_NUMBER,GRP_CHANNEL_NM
+0,Default
+321,Private Sector
+771,OEM
+999,To be defined
+IND,Indirect
+711,Dealer
+INT,Intercompany
+MAJ,Major Accounts
+311,Public Sector
+751,Retail
+421,Small
+911,RFG Europe Region
+OTH,Other
+741,Wholesale
+799,Dealer Customer
+211,RGS International Accounts (FG500)
+921,Other Ricoh worldwide
+721,NSP (SI/VAR)
+411,SOHO
+431,Medium
+761,Mass Merchandiser
+441,Public Sector
+731,Distributor

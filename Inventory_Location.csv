@@ -1,0 +1,72 @@
+ILC_ID,INO_ID,ILC_NAME,EMPLOYEE_ID
+Showroom,102,Showroom stock,100002096
+SP,102,Spare parts,100002096
+Defect,102,Defective goods,100002096
+Returns,102,Returns,100002096
+FG,102,Finished goods,100002096
+Software,102,Software renewal,100002096
+Staging,102,Staging area,100002096
+Re-Site,102,Re-Site area,100002096
+Cross dock,102,Cross Docking,100002096
+Scrap,121,Goods to be scrapped,100009160
+Software,121,Software renewal,100009160
+Defect,121,Defective Goods,100009160
+FG,121,Finished Goods,100009160
+Returns,121,Returns,100009160
+SP,121,Spare Parts,100009160
+Comp,121,Components,100009160
+Re-Site,121,Carrier Re-Site,100009160
+Staging,121,Staging,100009160
+Re-Site,141,Re-Site area,100054051
+Showroom,141,Showroom stock,100054051
+SP,141,Spare parts,100054051
+FG,141,Finished goods,100054051
+Software,141,Software renewal,100054051
+Defect,141,Defective goods,100054051
+Returns,141,Returns,100054051
+Cross Dock,141,Cross Docking,100054051
+Staging,141,Staging area,100054051
+Demo,142,Dem. Stock,100026043
+Returns,142,Returns,100026043
+Showroom,142,Showroom stock,100026043
+SP,142,Spare Parts,100026043
+Scrap,142,NOT TO BE USED ANYMORE,100026043
+Trial,142,Trial Stock,100026043
+Staging,142,Staging,100026043
+Used,142,Second Hand Stock,100026043
+DO NOT USE,142,DO NOT USE,100026043
+Re-Site,142,Carrier Re-Site,100026043
+Customer,142,Customer owned machines contract purposes,100026043
+USED G2,142,used machines available for dealers,100026043
+Defect,142,Defective Goods,100026043
+SCRAP UK,142,Goods to be scrapped,100026043
+SWAP-Def.,142,SWAP-Defective,100026043
+FG,142,Finished Goods,100026043
+SWAP-Pool,142,SWAP-Pool,100026043
+Comp,142,Components,100026043
+Staging,143,Staging,100002052
+Stock,143,Stock,100002052
+SP,144,Spare Parts,100036049
+Staging,144,Staging,100036049
+Re-Site,144,Carrier Re-Site,100036049
+Returns,144,Returns,100036049
+Defect,144,Defective Goods,100036049
+Comp,144,Components,100036049
+Scrap,144,Goods to be scrapped,100036049
+Software,144,Software renewal,100036049
+FG,144,Finished Goods,100036049
+Used,145,Second Hand Stock,100002069
+Staging,145,Staging,100002069
+SP,145,Spare Parts,100002069
+Customer,145,Customer owned machines contract purposes,100002069
+Comp,145,Components,100002069
+Scrap,145,Goods to be scrapped,100002069
+Defect,145,Defective Goods,100002069
+Returns,145,Returns,100002069
+Showroom,145,Showroom stock,100002069
+Trial,145,Trial stock,100002069
+Demo,145,Demo Pool,100002069
+Re-Site,145,Carrier Re-Site,100002069
+FG,145,Finished Goods,100002069
+Stock,146,Engineer Stock,100002069
+Staging,146,Staging,100002069
